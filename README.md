@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Bioengineering, application development, or IoT technology**
 
-- 📫 How to reach me **joaquin.palandri@gmail.com**
+- 📫 Contact me at **joaquin.palandri@gmail.com**
 
 - 📄 Know about my experiences **I don't have any professional work experience yet; my experience comes from projects I've created to learn and practice the tools and languages I know**
 
