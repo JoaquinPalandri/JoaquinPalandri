@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Joaquín</h1>
-<h3 align="center">Bioengineering aiming to specialize in application development</h3>
+<h3 align="center">Bioengineer aiming to specialize in application development</h3>
 
 - 🔭 I’m currently working on a **web application for a remote monitoring system as my final degree project.**
 
